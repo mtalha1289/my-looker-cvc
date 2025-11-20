@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "My GitHub CVC",
+    "company": "Your Name or Company",
+    "logoUrl": "https://yourusername.github.io/my-looker-cvc/logo.png",
+    "shortDescription": "A simple CVC hosted on GitHub Pages",
+    "description": "This is a minimal Community Visualization example hosted on GitHub Pages.",
+    "authType": "NONE",
+    "supportUrl": "https://yourusername.github.io/my-looker-cvc/",
+    "visualizationUrl": "https://yourusername.github.io/my-looker-cvc/viz.js"
+  }
+}
